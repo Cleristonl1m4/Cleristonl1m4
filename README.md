@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade de Uberaba (Uniube) e atuo como Assistente de TI Jr. Tenho buscado constante evolução na área de tecnologia, combinando minha experiência prática com dedicação ao aprendizado contínuo.
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade de Uberaba (Uniube) e atuo como Assistente de TI. Tenho buscado constante evolução na área de tecnologia, combinando minha experiência prática com dedicação ao aprendizado contínuo.
 
 Tenho conhecimento em Java, com foco na construção de aplicações desktop utilizando o paradigma de programação orientada a objetos e o desenvolvimento de sistemas CRUD com interfaces gráficas em Swing.
 
