@@ -7,18 +7,21 @@
 ---
 
 ## 🚀 Sobre mim
+Sou um desenvolvedor de software em formação, com foco em Java e orientação a objetos, em busca da minha primeira oportunidade na área de desenvolvimento. Atualmente, atuo como Assistente de TI, prestando suporte técnico a usuários e auxiliando na resolução de problemas relacionados a sistemas internos.
 
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade de Uberaba (Uniube) e atuo como Assistente de TI. Tenho buscado constante evolução na área de tecnologia, combinando minha experiência prática com dedicação ao aprendizado contínuo.
+Tenho conhecimentos em:
 
-Tenho conhecimento em Java, com foco na construção de aplicações desktop utilizando o paradigma de programação orientada a objetos e o desenvolvimento de sistemas CRUD com interfaces gráficas em Swing.
+Java (POO, Herança, Polimorfismo)
 
-Estou desenvolvendo habilidades em bancos de dados relacionais, como MySQL e SQL Server, onde venho praticando a criação de consultas, procedures, triggers, funções e estruturas de manipulação de dados.
+Banco de Dados SQL
 
-Também estou aprendendo a utilizar o Power BI para criar dashboards e relatórios interativos, aplicando conceitos de modelagem de dados, Power Query e DAX.
+Análise de Dados com construção de dashboards no Power BI
 
-Possuo conhecimentos introdutórios em HTML, CSS e JavaScript, e utilizo o GitHub como ferramenta para controle de versão e portfólio dos meus projetos.
+Sou uma pessoa comunicativa, proativa, comprometida e pontual, com forte interesse em aprender e crescer profissionalmente na área de tecnologia.
 
-Utilizo o sistema operacional Linux Mint para desenvolvimento e estou sempre em busca de novos desafios que contribuam para meu crescimento técnico e profissional.
+Inglês: Básico (em desenvolvimento)
+
+Busco uma oportunidade para aplicar meus conhecimentos e evoluir como desenvolvedor, contribuindo de forma prática com soluções eficientes.
 
 ---
 
